@@ -34,9 +34,9 @@
 2. [Installation](#installation)  
 3. [Development](#development)  
 4. [Testing](#testing)  
-5. [Deployment](#deployment)  
-<!--6. [Contributing](#contributing)  -->
+5. [Deployment](#deployment)
 6. [License](#license)
+<!--6. [Contributing](#contributing)  -->
 
 ---
 
