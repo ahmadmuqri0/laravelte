@@ -1,10 +1,16 @@
-# Laravelte
+# Laravelte 🚀
+
+[![Laravel](https://img.shields.io/badge/Laravel-11.x-FF2D20?logo=laravel)](https://laravel.com/)
+[![Svelte](https://img.shields.io/badge/Svelte-5.x-FF3E00?logo=svelte)](https://svelte.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?logo=typescript)](https://www.typescriptlang.org/)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.x-38B2AC?logo=tailwind-css)](https://tailwindcss.com/)
+<!-- [![Pest](https://img.shields.io/badge/Pest-PHP-FF69B4?logo=php)](https://pestphp.com/) -->
 
 **Laravelte** is a lightweight boilerplate combining **Laravel**, **Svelte**, **TypeScript**, **TailwindCSS**, **Vite**, and **Pest** testing—designed to help you build applications with modern tooling, frontend/backend separation, and great developer experience.
 
 ---
 
-## Overview
+## Overview 📖
 
 - **Frameworks & Languages**
   - Laravel (backend PHP framework)
@@ -22,7 +28,7 @@
 
 ---
 
-## Table of Contents
+## Table of Contents 📌
 
 1. [Features](#features)  
 2. [Installation](#installation)  
@@ -34,7 +40,7 @@
 
 ---
 
-## Features
+## Features ✨
 
 - Full-stack scaffolding using Laravel and Svelte
 - Modern frontend workflow powered by Vite and TypeScript
@@ -45,7 +51,7 @@
 
 ---
 
-## Installation
+## Installation ⚙️
 
 ```bash
 git clone https://github.com/ahmadmuqri0/laravelte.git
@@ -58,7 +64,7 @@ php artisan key:generate       # Generate application key
 
 ---
 
-## Development
+## Development 💻
 
 ```bash
 npm run dev                    # Start Vite for frontend hot-reloading
@@ -70,7 +76,7 @@ php artisan serve              # Start backend Laravel server
 
 ---
 
-## Testing
+## Testing 🧪
 
 ```bash
 php artisan test               # Run all tests via Pest
@@ -79,7 +85,7 @@ php artisan test --group=api   # Run only API tests, if grouped
 
 ---
 
-## Deployment
+## Deployment 🚢
 
 ```bash
 npm run build                  # Build front-end assets with Vite
@@ -91,12 +97,6 @@ php artisan optimize           # Optimize Laravel for production
 
 ---
 
-## Contributing
-
-Contributions are welcome! Please ensure your changes follow the project style guidelines (Prettier, ESLint), include tests where appropriate, and run all checks before opening a pull request.
-
----
-
-## License
+## License 📜
 
 This project is open-source and available under the **MIT License**.
