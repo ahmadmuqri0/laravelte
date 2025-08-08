@@ -1,9 +1,9 @@
 # Laravelte 🚀
 
-[![Laravel](https://img.shields.io/badge/Laravel-11.x-FF2D20?logo=laravel)](https://laravel.com/)
+[![Laravel](https://img.shields.io/badge/Laravel-12.x-FF2D20?logo=laravel)](https://laravel.com/)
 [![Svelte](https://img.shields.io/badge/Svelte-5.x-FF3E00?logo=svelte)](https://svelte.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?logo=typescript)](https://www.typescriptlang.org/)
-[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.x-38B2AC?logo=tailwind-css)](https://tailwindcss.com/)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4.x-38B2AC?logo=tailwind-css)](https://tailwindcss.com/)
 <!-- [![Pest](https://img.shields.io/badge/Pest-PHP-FF69B4?logo=php)](https://pestphp.com/) -->
 
 **Laravelte** is a lightweight boilerplate combining **Laravel**, **Svelte**, **TypeScript**, **TailwindCSS**, **Vite**, and **Pest** testing—designed to help you build applications with modern tooling, frontend/backend separation, and great developer experience.
